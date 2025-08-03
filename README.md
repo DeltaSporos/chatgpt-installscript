@@ -11,7 +11,7 @@ This script installs the official ChatGPT Desktop `.AppImage` (v1.1.0) to your l
 ## 📦 Usage
 
 ```bash
-git clone https://github.com/yourusername/chatgpt-desktop-installer
-cd chatgpt-desktop-installer
+git clone https://github.com/DeltaSporos/chatgpt-installscript
+cd chatgpt-installscript
 chmod +x install-chatgpt.sh
 ./install-chatgpt.sh
